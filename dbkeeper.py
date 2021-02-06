@@ -1,6 +1,5 @@
 from . import mysqlite
 from datetime import datetime
-import random
 
 
 class DBKeeper:
